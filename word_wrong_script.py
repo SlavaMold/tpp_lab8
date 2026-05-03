@@ -26,4 +26,4 @@ while True:
             if next_choice == "1":
                 continue
             if next_choice == "0":
-                continue  # ОШИБКА 3: должен быть break, а continue бесконечно крутит цикл
+                break
